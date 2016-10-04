@@ -1,0 +1,22 @@
+[
+  {
+    "email": "omarahmed1473@outlook.com",
+    "password": "o",
+    "authenticated": false
+  },
+  {
+    "email": "alprinceomar@live.com",
+    "password": "a",
+    "authenticated": false
+  },
+  {
+    "email": "o@yahoo.com",
+    "password": "m",
+    "authenticated": false
+  },
+  {
+    "name": "mohit",
+    "password": "password4",
+    "authenticated": false
+  }
+]
