@@ -14,8 +14,6 @@ var row_CompletedTask = [];
 var index_authenticatedUser = 0;
 var found = false;
 function drawTable(list) {
-    // console.log(list);
-    // console.log("it is my first time");
     if (list == taskslist) {
         $('#1').addClass("active");
         $('#2').removeClass("active");
