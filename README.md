@@ -7,5 +7,8 @@ Installation
 ============
 
 This application uses nodeJS server so you have to run it localy on your computer by command : 
+`
+$ cd bin
 $ node www 
-in bin folder, and to open the website you have to open cover.html from public/ToDoist/cover/cover.html
+`
+and to open the website you have to open cover.html from public/ToDoist/cover/cover.html
